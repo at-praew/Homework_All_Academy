@@ -1,0 +1,15 @@
+{
+    "name": "2express",
+    "version": "1.0.0",
+    "description": "",
+    "main": "hw1.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "24apin-solver": "^1.0.1",
+      "express": "^4.18.1"
+    }
+  }
